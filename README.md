@@ -1,5 +1,7 @@
 # ReleasePilot Landing Page
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A responsive React landing page for a fictional release-management platform. It is intentionally lightweight so a new developer can clone, install, run, inspect, and build it during a short onboarding workflow.
 
 ## Requirements
@@ -31,3 +33,8 @@ The optimized output is written to `dist/`.
 - The early-access form rejects invalid email addresses.
 - A valid email displays a success message.
 - The page reflows at desktop, tablet, and mobile widths.
+
+## License
+
+This public project is available under the [MIT License](LICENSE). It may be
+used, copied, modified, and distributed subject to the terms of that license.
